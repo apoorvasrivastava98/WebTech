@@ -8,7 +8,7 @@ alert("This is alert box using arrow function");
 }
 function showa()
 {
-showalert();
+showalert1();
 }
 
 function showconfirm()
