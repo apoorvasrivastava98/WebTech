@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<BOOKSTORE>
+ <BOOK type="Subject Book">
+  <NAME>Principles of Web Design</NAME>
+  <SUBJECT>WEB Technology</SUBJECT>
+  <AUTHOR>Joel Sklar</AUTHOR>
+  <PRICE>5000</PRICE>
+  <PAGES>500</PAGES>
+ </BOOK>
+ <BOOK type="Subject Book">
+  <NAME>Operating System Concepts</NAME>
+  <SUBJECT>OS</SUBJECT>
+  <AUTHOR>Silverschatz</AUTHOR>
+  <PRICE>2000</PRICE>
+  <PAGES>500</PAGES>
+ </BOOK>
+ <BOOK type="Subject Book">
+   <NAME>Operations Research</NAME>
+   <SUBJECT>CBOT</SUBJECT>
+  <AUTHOR>Taha</AUTHOR>
+  <PRICE>3000</PRICE>
+  <PAGES>500</PAGES>
+  </BOOK>
+ <BOOK type="Subject Book">
+  <NAME>Introduction to Algorithms</NAME>
+  <SUBJECT>DAA</SUBJECT>
+  <AUTHOR>Coremen</AUTHOR>
+  <PRICE>2000</PRICE>
+  <PAGES>500</PAGES>
+ </BOOK>
+ <BOOK type="Novels">
+  <NAME>Harry Potter</NAME>
+  <AUTHOR>JK ROWLING</AUTHOR>
+  <PRICE>1000</PRICE>
+  <PAGES>500</PAGES>
+ </BOOK>
+ <BOOK type="Novels">
+  <NAME>The Lord of Rings</NAME>
+  <AUTHOR>JRR Tolkien</AUTHOR>
+  <PRICE>2500</PRICE>
+  <PAGES>500</PAGES> 
+</BOOK>
+</BOOKSTORE>
