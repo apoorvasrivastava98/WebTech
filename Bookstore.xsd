@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema">
+ <xs:element name="BOOKSTORE">
+  <xs:complexType>
+    <xs:sequence>
+      <xs:element name="BOOK">
+       <xs:complexType>
+        <xs:sequence>
+         <xs:element name="NAME" type="xs:string"></xs:element>
+         <xs:element name="SUBJECT" type="xs:string"></xs:element>
+         <xs:element name="AUTHOR" type="xs:string></xs:element>
+         <xs:element name="PRICE" type="xs:string"></xs:element>
+         <xs:element name="PAGES" type="xs:string"></xs:element>
+        </xs:sequence>
+       <xs:attribute name="type" type="xs:string"></xs:attribute>
+       </xs:complexType>
+      </xs:element>
+     </xs:sequence>
+    </xs:complexType>
+   </xs:element>
+</xs:schema>
