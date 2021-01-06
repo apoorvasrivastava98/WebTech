@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ADDRESSBOOK>
+ <CONTACT>
+  <NAME>Suruchi Sinha</NAME>
+  <STREET>W2/123</STREET>
+  <STATE>Tamil Nadu</STATE>
+  <PHONE>9898989898</PHONE>
+ </CONTACT>
+  <CONTACT>
+  <NAME>Harshika Srivastava</NAME>
+  <STREET>S3/198</STREET>
+  <STATE>Maharashtra</STATE>
+  <PHONE>7878787878</PHONE>
+ </CONTACT>
+ <CONTACT>
+  <NAME>Apoorva Srivastava</NAME>
+  <STREET>C2/524</STREET>
+  <STATE>Karnataka</STATE>
+  <PHONE>9292929292</PHONE>
+ </CONTACT>
+</ADDRESSBOOK>
